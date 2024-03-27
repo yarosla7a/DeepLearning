@@ -3,6 +3,7 @@
 *in pdf file there're the results of the trained model shown through a selection of some photos
 
 *in tqdm.png can see the process of model learning
+
 Enjoy)
 
 ![UNET_arch](https://neerc.ifmo.ru/wiki/images/d/dc/U-net-architecture.png)
