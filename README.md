@@ -5,7 +5,8 @@
 *in tqdm.png can see the process of model learning
 Enjoy)
 
-![Пример изображения]([https://example.com/example-image.jpg](https://img-blog.csdn.net/20181003231448324?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2R1Z3VkYWlibw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70))
+![UNET_arch](https://neerc.ifmo.ru/wiki/images/d/dc/U-net-architecture.png)
+
 Курс посвящен основам глубокого обучения и методам применения нейронных сетей в различных задачах.
 
 Обучение на курсе позволит понять теоретические основы работы нейронных сетей и приобрести прикладные навыки работы с современными моделями. Практическая часть курса включает в себя работу с текстами, изображениями, вопросно-ответными системами и генеративными моделями.
