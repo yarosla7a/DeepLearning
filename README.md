@@ -8,7 +8,7 @@ with open HumanSegmentationProblem folder:
 
 * "...ipynb" contains code itself
 
-*coco-dataset-person(lite) was used for training(31.1k photo of people with its annotations)
+* coco-dataset-person(lite) was used for training(31.1k photo of people with its annotations)
 
 Enjoy)
 
