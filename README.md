@@ -1,6 +1,6 @@
 # my UNET realization with HumanSegmentation
 
-with open HumanSegmentationProblem folder:
+with open HumanSegmentation folder:
 
 * in pdf file there're the results of the trained model shown through a selection of some photos
 
